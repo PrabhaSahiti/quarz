@@ -1,0 +1,1 @@
+I've been trying to understand [[Can we scale meaningfully?|scaling laws]] and their meaning for a run-of-the-mill tech enthusiast looking to build a meaningful model for a very specific use-case.  
